@@ -67,7 +67,7 @@ CREATE TABLE IF NOT EXISTS `clientes` (
 --
 
 INSERT INTO `clientes` (`dniCliente`, `Apellido`, `Nombre`, `Telefono`, `Email`, `FechaDeAlta`, `FechaDeBaja`, `Estado`, `Direccion`) VALUES
-(4567894, 'martinez', 'fernando', 386555555, 'fernando@martinez', '2015-09-06', NULL, 1, 'fernando martinez 456'),
+(4567894, 'martinez', 'lucas', 386555555, 'fernando@martinez', '2015-09-06', NULL, 1, 'fernando martinez 456'),
 (11111111, 'Apaza', 'Silvana', 3814637256, 'silva_d@gmail.com', '2015-09-01', '0000-00-00', 1, 'barrio belgrano mc lote 12'),
 (17052415, 'barrientos', 'ruben', 3865413151, 'rubengabriel_ru@hotmail.com', '1999-12-02', '2015-09-06', 0, 'concepción - tucuman'),
 (20898931, 'Cejas', 'Juan Carlos', 3865256079, 'cejasjuancarlos@gmail.com', '2015-09-06', '2015-09-06', 0, 'Ricardo Rojas 900 - Alberdi'),
